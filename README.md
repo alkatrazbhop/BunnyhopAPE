@@ -13,3 +13,6 @@ How to build
 2. Select `Release` configuration.
 3. **`BUILD`**-->**`Build BunnyhopAPE`**
 4. `BunnyhopAPE.exe` will appear in the newly created `Release` folder.
+
+
+Hey bro, are you alive?
